@@ -12,8 +12,8 @@
   "main": [
     "css/ionic.css",
     "fonts/*",
-    "
-    "
+    
+    "",
   ],
   "keywords": [
     "mobile",
@@ -36,16 +36,16 @@
     "config",
     "examples",
     "package.json",
-    "
-    "
+    
+    
     "scripts",
     "test",
-    "
-    "
-    "
-    "
-    "
-    "
+    
+    
+    
+    
+    
+    "",
   ],
   "dependencies": {
     "angular": "1.2.12",
