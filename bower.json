@@ -12,8 +12,8 @@
   "main": [
     "css/ionic.css",
     "fonts/*",
-    "js/ionic.js",
-    "js/ionic-angular.js"
+    "
+    "
   ],
   "keywords": [
     "mobile",
@@ -36,16 +36,16 @@
     "config",
     "examples",
     "package.json",
-    "js/angular",
-    "js/angular-ui",
+    "
+    "
     "scripts",
     "test",
-    "js/controllers",
-    "js/ext",
-    "js/utils",
-    "js/views",
-    "js/_license.js",
-    "js/ionic.js"
+    "
+    "
+    "
+    "
+    "
+    "
   ],
   "dependencies": {
     "angular": "1.2.12",
