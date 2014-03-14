@@ -13,7 +13,7 @@
     "css/ionic.css",
     "fonts/*",
     
-    "",
+    ""
   ],
   "keywords": [
     "mobile",
@@ -45,7 +45,7 @@
     
     
     
-    "",
+    ""
   ],
   "dependencies": {
     "angular": "1.2.12",
